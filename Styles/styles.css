@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(217, 236, 234);
+    font-weight: normal;
+    font-family: normal;
+}
+img {
+    max-width: 25%;
+    height: auto;
+}
+.bold {
+    font-weight: bold;
+}
+.underline {
+    text-decoration: underline;
+}
+.TMR {
+    font-family: 'Times New Roman', Times, serif;
+}
+.grey {
+    color: rgb(85, 80, 80);
+}
+.it {
+    text-decoration: wavy;
+}
+.center {
+    text-align: center;
+}
